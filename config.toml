@@ -61,6 +61,7 @@ paginate = 10
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
+			url  = "post/"
 			thumb = "thumbs/01.jpg"
 			title = "Queste sono solo foto"
 			description = "Non leggete perché tanto non so scrivere"
